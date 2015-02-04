@@ -1,0 +1,122 @@
+anmak yapan Özne-->insan
+baþarmak yapan Özne-->insan
+baþarmak yapan Özne-->öðrenci
+beðenmek yapan Özne-->aþçý
+beðenmek yapan Özne-->erkek
+beðenmek yapan Özne-->kadýn
+bilmek yapan Özne-->insan
+bilmek yapan Özne-->öðrenci
+bitirmek yapan Özne-->hayvan
+bitirmek yapan Özne-->insan
+bitirmek yapan Özne-->öðrenci
+býrakmak yapan Özne-->adam
+býrakmak yapan Özne-->futbolcu
+býrakmak yapan Özne-->öðrenci
+doðrulamak yapan Özne-->insan
+doðrulamak yapan Özne-->öðretmen
+heyecan duymak yapan Özne-->erkek
+heyecan duymak yapan Özne-->insan
+heyecan duymak yapan Özne-->öðrenci
+ikaz etmek yapan Özne-->hata
+ikaz etmek yapan Özne-->insan
+ikaz etmek yapan Özne-->vatandaþ
+ikram etmek yapan Özne-->ev sahibi
+ikram etmek yapan Özne-->öðrenci
+ilan etmek yapan Özne-->bölüm
+ilan etmek yapan Özne-->gazete
+ilan etmek yapan Özne-->hoca
+ilerlemek yapan Özne-->araba
+ilerlemek yapan Özne-->bilim
+ilerlemek yapan Özne-->öðretmen
+imtihana girmek yapan Özne-->öðrenci
+kayýt yaptýrmak yapan Özne-->Nesne
+kayýt yaptýrmak yapan Özne-->öðrenci
+kayýt yaptýrmak yapan Özne-->Ýnsan
+mecbur olmak yapan Özne-->insan
+mezun olmak yapan Özne-->insan
+münakaþa etmek yapan Özne-->insan
+not almak yapan Özne-->dinleyici
+not almak yapan Özne-->insan
+not tutmak yapan Özne-->insan
+not tutmak yapan Özne-->öðrenci
+oturmak yapan Özne-->dede
+oturmak yapan Özne-->hayvan
+oturmak yapan Özne-->insan
+oy vermek yapan Özne-->insan
+oy vermek yapan Özne-->seçmen
+oy vermek yapan Özne-->vatandaþ
+paniklemek yapan Özne-->hýrsýz
+paniklemek yapan Özne-->insan
+paniklemek yapan Özne-->kaynaklarý kýsýtlanan
+paniklemek yapan Özne-->suçlu
+planlamak yapan Özne-->insan
+planlamak yapan Özne-->proje müdürü
+planlamak yapan Özne-->suçlu
+planlamak yapan Özne-->yönetici
+planlamak yapan Özne-->öðretmen
+rahatsýz etmek yapan Özne-->hastalýk
+rahatsýz etmek yapan Özne-->holigan
+rahatsýz etmek yapan Özne-->insan
+rahatsýz etmek yapan Özne-->kedi
+rahatsýz etmek yapan Özne-->köpek
+reddetmek yapan Özne-->insan
+reddetmek yapan Özne-->kýz
+reddetmek yapan Özne-->protestocu
+rica etmek yapan Özne-->arkadaþ
+rica etmek yapan Özne-->dekan
+rica etmek yapan Özne-->insan
+riski girmek yapan Özne-->giriþimci
+riski girmek yapan Özne-->insan
+riski girmek yapan Özne-->koç
+riski girmek yapan Özne-->kumarbaz
+riski girmek yapan Özne-->yatýrýmcý
+saklamak yapan Özne-->anne
+saklamak yapan Özne-->insan
+saklamak yapan Özne-->çocuk
+sanmak yapan Özne-->insan
+sanmak yapan Özne-->ögrenci
+sanmak yapan Özne-->öðrenci
+saptamak yapan Özne-->doktor
+saptamak yapan Özne-->insan
+saptamak yapan Özne-->radar
+saymak yapan Özne-->insan
+saymak yapan Özne-->öðrenci
+selamlamak yapan Özne-->insan
+selamlamak yapan Özne-->komþu
+sýnava girmek yapan Özne-->öðrenci
+toplanmak yapan Özne-->grup
+toplanmak yapan Özne-->insan
+toplanmak yapan Özne-->insanlar
+toplanmak yapan Özne-->öðrenci
+uðraþmak yapan Özne-->insan
+uðraþmak yapan Özne-->öðrenci
+yaymak yapan Özne-->insan
+yaymak yapan Özne-->misyoner
+yaymak yapan Özne-->ressam
+yönetmek yapan Özne-->baþkan
+yönetmek yapan Özne-->hayvan
+yönetmek yapan Özne-->insan
+yönetmek yapan Özne-->müdür
+yönetmek yapan Özne-->patron
+yönetmek yapan Özne-->yönetmen
+zorlamak yapan Özne-->insan
+zorlamak yapan Özne-->toplum
+zorluk çekmek yapan Özne-->insan
+zorluk çekmek yapan Özne-->Öðrenci
+önermek yapan Özne-->danýþman
+önermek yapan Özne-->insan
+önermek yapan Özne-->ögretmen
+özetlemek yapan Özne-->hoca
+özetlemek yapan Özne-->insan
+özetlemek yapan Özne-->okur
+özetlemek yapan Özne-->yapay zeka
+özetlemek yapan Özne-->Öðrenci
+özetlemek yapan Özne-->öðrenci
+özür dilemek yapan Özne-->insan
+özür dilemek yapan Özne-->suçlu
+öðrenmek yapan Özne-->insan
+öðrenmek yapan Özne-->öðrenci
+öðretmek yapan Özne-->insan
+öðretmek yapan Özne-->öðretmen
+üzerinde durmak yapan Özne-->insan
+üzerinde durmak yapan Özne-->öðretmen
